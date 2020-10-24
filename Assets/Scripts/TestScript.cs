@@ -10,9 +10,7 @@ public class TestScript : MonoBehaviour
     {
         trans = GetComponent<Transform>();
 
-        // 1
-        // 2
-        //3
+       
         //4
         //2 //
         //5
