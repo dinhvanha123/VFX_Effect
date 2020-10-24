@@ -9,6 +9,8 @@ public class TestScript : MonoBehaviour
     void Start()
     {
         trans = GetComponent<Transform>();
+        // 1
+
     }
 
     // Update is called once per frame
